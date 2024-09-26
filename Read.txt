@@ -1,0 +1,24 @@
+User Credentials:
+
+Mobile Number: 960442429
+Password: kuunda54321
+
+Mobile Number: 2567789111
+Password: 123wanwan
+
+Mobile Number: 5671165222
+Password: lightonkalumba
+
+Admin Credential
+
+LINK FOR ADMIN PANEL
+
+http://localhost/Birth Certificate System/admin/login.php
+
+
+Username: admin
+Password: techconnect1010
+
+
+
+
